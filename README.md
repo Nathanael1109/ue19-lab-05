@@ -1,3 +1,9 @@
+# Travail académique
+
+Ce projet a été réalisé dans le cadre du cours **B2 – UE19 : Gestion de la sécurité opérationnelle** à HELMo.
+Responsable de cette UE : FORAMITTI Laurent
+Laboratoire dispensé par : COLLIN Anne-Sophie
+
 # Générateur d'UUID
 
 Petite application en ligne de commande qui génère des UUID à l'aide de l'API publique [UUIDTools](https://uuidtools.com/). Elle utilise la bibliothèque Python `requests` pour envoyer les requêtes HTTP.
